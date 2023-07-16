@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5248f87b-7a29-4534-8af6-502f8369c8ed" name="Changes" comment="add: finish first step of count dose" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MUhPcTwDKugJBwuG95ulFqqSge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/low",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5248f87b-7a29-4534-8af6-502f8369c8ed" name="Changes" comment="" />
+      <created>1677828046105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677828046105</updated>
+      <workItem from="1677828047280" duration="5279000" />
+      <workItem from="1677918144023" duration="32000" />
+      <workItem from="1677921999134" duration="5057000" />
+      <workItem from="1678122187223" duration="5000" />
+      <workItem from="1678202824182" duration="6275000" />
+      <workItem from="1678212692138" duration="2147000" />
+      <workItem from="1678293548332" duration="2401000" />
+      <workItem from="1678296740856" duration="15000" />
+      <workItem from="1678366055120" duration="488000" />
+      <workItem from="1678381728354" duration="5032000" />
+      <workItem from="1678454324310" duration="4449000" />
+      <workItem from="1678517523452" duration="9000" />
+      <workItem from="1678558925833" duration="6996000" />
+      <workItem from="1678616885590" duration="2674000" />
+      <workItem from="1678730452731" duration="4149000" />
+      <workItem from="1678863586955" duration="6056000" />
+      <workItem from="1678898878963" duration="9000" />
+      <workItem from="1678987515725" duration="4232000" />
+      <workItem from="1678998352779" duration="605000" />
+      <workItem from="1679034269149" duration="2914000" />
+      <workItem from="1679040357451" duration="4248000" />
+      <workItem from="1679076420353" duration="2633000" />
+      <workItem from="1679123685603" duration="11000" />
+      <workItem from="1679227635650" duration="1808000" />
+      <workItem from="1679584008254" duration="2919000" />
+      <workItem from="1679662141921" duration="1020000" />
+      <workItem from="1679830754490" duration="2703000" />
+      <workItem from="1679858527789" duration="688000" />
+      <workItem from="1679937021834" duration="1310000" />
+      <workItem from="1680457259610" duration="9985000" />
+      <workItem from="1680531107946" duration="9850000" />
+      <workItem from="1680620457545" duration="7000" />
+      <workItem from="1680620465496" duration="1009000" />
+      <workItem from="1680624656933" duration="10298000" />
+      <workItem from="1680637105786" duration="8844000" />
+      <workItem from="1680648727839" duration="86000" />
+      <workItem from="1680676150680" duration="10609000" />
+      <workItem from="1680711759809" duration="2884000" />
+      <workItem from="1681835038312" duration="8000" />
+      <workItem from="1682690497181" duration="250000" />
+      <workItem from="1682960214740" duration="328000" />
+      <workItem from="1689528814347" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1678987795252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678987795252</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init: start to create dose count">
+      <created>1679044881018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679044881018</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add: finish first step of count dose">
+      <created>1679833543938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679833543938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <MESSAGE value="init: start to create dose count" />
+    <MESSAGE value="add: finish first step of count dose" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: finish first step of count dose" />
+  </component>
+</project>
